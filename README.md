@@ -18,7 +18,7 @@ Software platform designed for a multi-task robot built with LEGO systems and po
 
 ## Repository Structure
 ```text
-├── architecture/      # Software architecture diagrams and docs[cite: 1]
-├── src/               # Processor source code and task logic[cite: 1]
-├── simulation/        # Animation files and simulation scripts[cite: 1]
+├── architecture/      # Software architecture diagrams and docs
+├── src/               # Processor source code and task logic
+├── simulation/        # Animation files and simulation scripts
 └── README.md
