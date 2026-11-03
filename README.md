@@ -4,10 +4,10 @@
 Software platform designed for a multi-task robot built with LEGO systems and powered by processors such as Raspberry Pi or ARM7. The system ingests sensory data, processes decision logic, executes motor actions, and validates functionalities through simulation animations.
 
 ## Features
-- **Processor-Targeted Logic:** Built for Raspberry Pi and ARM microprocessors[cite: 1].
-- **Sensor Data Processing:** Reads, filters, and acts on real-time environmental input[cite: 1].
-- **Software Architecture:** Modular design separating data ingestion, processing, and actuation[cite: 1].
-- **Visual Simulation:** Animated simulations demonstrating multi-task execution[cite: 1].
+- **Processor-Targeted Logic:** Built for Raspberry Pi and ARM microprocessors.
+- **Sensor Data Processing:** Reads, filters, and acts on real-time environmental input.
+- **Software Architecture:** Modular design separating data ingestion, processing, and actuation.
+- **Visual Simulation:** Animated simulations demonstrating multi-task execution.
 
 ## Repository Structure
 ```text
